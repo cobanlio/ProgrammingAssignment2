@@ -48,4 +48,3 @@ cacheSolve <- function(x, ...) {
     x$setinvert(i)
     i
 }
-
